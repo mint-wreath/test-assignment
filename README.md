@@ -1,2 +1,7 @@
-# test-assignment
-Checklist for registration form
+# Test-assignment
+
+Данный чек-лист предназначен для тестирования формы регистрации в веб-приложении
+
+## Checklist
+
+- [Форма регистрации](/checklist.md)
